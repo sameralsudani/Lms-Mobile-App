@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Betafier",
-    "slug": "Betafier",
-    "version": "1.0.0",
+    "name": "BetafierFast",
+    "slug": "BetafierFast",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "betafier",
+    "scheme": "BetafierFast",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.betafier.app"
+      "bundleIdentifier": "com.BetafierFast.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.betafier.app"
+      "package": "com.BetafierFast.app"
     },
     "web": {
       "bundler": "metro",
@@ -36,7 +36,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "ca0a9840-cb93-4e2a-b6df-33f38097136d"
+        "projectId": "f4d48dae-f301-41ea-b4b9-4d45addf7aac"
       }
     }
   }

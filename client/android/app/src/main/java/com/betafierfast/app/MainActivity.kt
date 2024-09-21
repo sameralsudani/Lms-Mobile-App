@@ -1,4 +1,4 @@
-package com.betafier.app
+package com.BetafierFast.app
 
 import android.os.Build
 import android.os.Bundle

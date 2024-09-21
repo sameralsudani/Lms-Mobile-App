@@ -1,4 +1,4 @@
-package com.betafier.app
+package com.BetafierFast.app
 
 import android.app.Application
 import android.content.res.Configuration
